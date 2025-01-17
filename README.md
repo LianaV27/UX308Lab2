@@ -1,2 +1,2 @@
-# UX308Lab1
-hello javascript type application
+# UX308Lab2
+calculations javascript type application
