@@ -3,7 +3,6 @@
 // assign numeric grade
 let numericGrade = 99;
 
-
 // assign letter grades to numeric values
 
 if (numericGrade >= 90){
